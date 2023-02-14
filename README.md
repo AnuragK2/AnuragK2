@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragk2&label=Profile%20views&color=0e75b6&style=flat" alt="anuragk2" /> </p>
 
@@ -24,13 +24,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anuragk0424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragk0424" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anurag-kumar-3632b31ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-kumar-3632b31ba/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005897019480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005897019480" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_anuraaaag_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_anuraaaag_/?hl=en" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/anuragk04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anuragk04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/anuragkumar_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anuragkumar_24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/_20051236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_20051236/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/20051236/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/20051236/practice/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anurag-kumar-3632b31ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-kumar-3632b31ba" height="30" width="40" /></a>
+<a href="https://fb.com/id=100005897019480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="id=100005897019480" height="30" width="40" /></a>
+<a href="https://instagram.com/_anuraaaag_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anuraaaag_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anuragk04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anuragk04" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anuragkumar_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuragkumar_24" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_20051236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_20051236" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/20051236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="20051236" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
