@@ -1,6 +1,9 @@
 <h1 align="center"> Hello!👋 I am Anurag Kumar </h1>
 
-<h2 align="center">A passionate Frontend Developer 🖥️</h2>
+
+<img src="https://user-images.githubusercontent.com/110308448/219136643-1da81fe6-a8da-47e1-a38e-4dfba79ece31.gif" style="display: block; margin-left:auto; margin-right:auto;">
+
+
 
 <h2 align="left"> 👽About: </h2>
 <img align="right" src="
