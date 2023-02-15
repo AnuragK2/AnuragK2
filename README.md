@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragk2&label=Profile%20views&color=0e75b6&style=flat" alt="anuragk2" /> </p>
 <h2 align="left"> 👽About</h2>
 <img align="right" src="
 https://media4.giphy.com/media/gLWLC3fjwG56p3H4uC/giphy.gif?cid=ecf05e474yat6xyig8zhq0t6y657vqh91aob9s5k67r69cmi&rid=giphy.gif&ct=s">
@@ -21,7 +20,7 @@ https://media4.giphy.com/media/gLWLC3fjwG56p3H4uC/giphy.gif?cid=ecf05e474yat6xyi
 
 - ⚡ Fun fact **Paradoxically intuitive and distanced! ✌️**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 💬 Hit me up here!!!:</h3>
 <p align="left">
 <a href="https://twitter.com/anuragk0424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragk0424" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anurag-kumar-3632b31ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-kumar-3632b31ba" height="30" width="40" /></a>
@@ -31,6 +30,7 @@ https://media4.giphy.com/media/gLWLC3fjwG56p3H4uC/giphy.gif?cid=ecf05e474yat6xyi
 <a href="https://www.hackerrank.com/anuragkumar_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuragkumar_24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_20051236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_20051236" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/20051236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="20051236" height="30" width="40" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragk2&label=Profile%20views&color=0e75b6&style=flat" alt="anuragk2" /> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
