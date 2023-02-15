@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragk2&label=Profile%20views&color=0e75b6&style=flat" alt="anuragk2" /> </p>
 <h2 align="left"> 👽About</h2>
 <img align="right" src="
-![giphy](https://user-images.githubusercontent.com/110308448/219120085-012fd47c-99c0-414f-8341-9a834f2686c3.gif)">
+https://media4.giphy.com/media/gLWLC3fjwG56p3H4uC/giphy.gif?cid=ecf05e474yat6xyig8zhq0t6y657vqh91aob9s5k67r69cmi&rid=giphy.gif&ct=s">
 - 🔭 I’m currently working on **Competitive Programming, Web Development**
 
 - 🌱 I’m currently learning **Web Development and Data Analytics**
