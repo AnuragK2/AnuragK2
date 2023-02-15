@@ -2,23 +2,23 @@
 
 <h2 align="left"> 👽About: </h2>
 
-<img align="right" height= 370 width=370 src="https://user-images.githubusercontent.com/110308448/219136643-1da81fe6-a8da-47e1-a38e-4dfba79ece31.gif" >
+<img align="right" height= 300 width=350 src="https://user-images.githubusercontent.com/110308448/219136643-1da81fe6-a8da-47e1-a38e-4dfba79ece31.gif" >
 
-- 🔭 I’m currently working on **Competitive Programming, Web Development**
+- 🔭 I’m currently working on: **Competitive Programming, Web Development**
 
-- 🌱 I’m currently learning **Web Development and Data Analytics**
+- 🌱 I’m currently learning: **Web Development and Data Analytics**
 
-- 👯 I’m looking to collaborate on **projects involving web development**
+- 👯 I’m looking to collaborate on: **projects involving web development**
 
-- 🤝 I’m looking for help with **ReactJS and Backend Development**
+- 🤝 I’m looking for help with: **ReactJS and Backend Development**
 
-- 💬 Ask me about **Web Development and DSA**
+- 💬 Ask me about: **Web Development and DSA**
 
-- 📫 How to reach me **anuragk04.24@gmail.com**
+- 📫 How to reach me: **anuragk04.24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UALZmngd0S9Ax9BWCREcVKiGi_y_y_qt/view?usp=share_link](https://drive.google.com/file/d/1UALZmngd0S9Ax9BWCREcVKiGi_y_y_qt/view?usp=share_link)
+- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1UALZmngd0S9Ax9BWCREcVKiGi_y_y_qt/view?usp=share_link)
 
-- ⚡ Fun fact **Paradoxically intuitive and distanced! ✌️**
+- ⚡ Fun fact: **Paradoxically intuitive and distanced! ✌️**
 
 <h2 align="left"> 💬 Hit me up here!!!: </h2>
 <p align="left">
