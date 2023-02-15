@@ -2,7 +2,7 @@
 
 <h2 align="left"> 👽About: </h2>
 
-<img align="right" height= 370 width=400 src="https://user-images.githubusercontent.com/110308448/219136643-1da81fe6-a8da-47e1-a38e-4dfba79ece31.gif" >
+<img align="right" height= 370 width=370 src="https://user-images.githubusercontent.com/110308448/219136643-1da81fe6-a8da-47e1-a38e-4dfba79ece31.gif" >
 
 - 🔭 I’m currently working on **Competitive Programming, Web Development**
 
