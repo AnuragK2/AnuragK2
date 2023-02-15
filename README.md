@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
-<h2 align="center">A passionate Frontend Developer</h2>
+![Eatsleep](https://user-images.githubusercontent.com/110308448/219125122-f0f4ea7d-957e-459f-b4ce-95961e5524f3.gif)
+
+<h2 align="center">A passionate Frontend Developer 🖥️</h2>
 <h2 align="left"> 👽About: </h2>
 <img align="right" src="
 https://media4.giphy.com/media/gLWLC3fjwG56p3H4uC/giphy.gif?cid=ecf05e474yat6xyig8zhq0t6y657vqh91aob9s5k67r69cmi&rid=giphy.gif&ct=s">
