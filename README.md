@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragk2&label=Profile%20views&color=0e75b6&style=flat" alt="anuragk2" /> </p>
-<h2 align="left"> 👽About
+<h2 align="left"> 👽About</h2>
 - 🔭 I’m currently working on **Competitive Programming, Web Development**
 
 - 🌱 I’m currently learning **Web Development and Data Analytics**
