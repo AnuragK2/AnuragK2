@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=The+Nautigal&size=53&duration=4000&color=F71914&center=true&width=500&height=90&lines=Hey! 👋+I+am+Anurag+Kumar](https://git.io/typing-svg)
 
 <h2 align="center">A passionate Frontend Developer 🖥️</h2>
+
 <h2 align="left"> 👽About: </h2>
 <img align="right" src="
 https://media4.giphy.com/media/gLWLC3fjwG56p3H4uC/giphy.gif?cid=ecf05e474yat6xyig8zhq0t6y657vqh91aob9s5k67r69cmi&rid=giphy.gif&ct=s">
