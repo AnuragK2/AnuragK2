@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 
-
-![giphy](https://user-images.githubusercontent.com/110308448/219125731-a5ea1eb9-0e89-4a01-9aeb-f837bb65f43c.gif)
-
 <h2 align="center">A passionate Frontend Developer 🖥️</h2>
 <h2 align="left"> 👽About: </h2>
 <img align="right" src="
 https://media4.giphy.com/media/gLWLC3fjwG56p3H4uC/giphy.gif?cid=ecf05e474yat6xyig8zhq0t6y657vqh91aob9s5k67r69cmi&rid=giphy.gif&ct=s">
+<img align="right" [giphy](https://user-images.githubusercontent.com/110308448/219125731-a5ea1eb9-0e89-4a01-9aeb-f837bb65f43c.gif)>
 - 🔭 I’m currently working on **Competitive Programming, Web Development**
 
 - 🌱 I’m currently learning **Web Development and Data Analytics**
