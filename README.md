@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
-![Eatsleep](https://user-images.githubusercontent.com/110308448/219125122-f0f4ea7d-957e-459f-b4ce-95961e5524f3.gif)
+![219125122-f0f4ea7d-957e-459f-b4ce-95961e5524f3](https://user-images.githubusercontent.com/110308448/219125425-0eea64f0-6dc3-4bcc-b4bb-0b8dfd94ff36.gif)
+
 
 <h2 align="center">A passionate Frontend Developer 🖥️</h2>
 <h2 align="left"> 👽About: </h2>
