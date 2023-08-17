@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **anuragk04.24@gmail.com**
 
-- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1ADuP4H0oPL8BdUhO2wowMKdLvxgm-ZcX/view?usp=share_link)
+- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1EGW9RhTncYL9SAMRJ_eStcnmLc8Woafb/view?usp=sharing)
 
 - ⚡ Fun fact: **Paradoxically intuitive and distanced! ✌️**
 
