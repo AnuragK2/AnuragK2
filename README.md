@@ -4,19 +4,19 @@
 
 <img align="right" height= 300 width=350 src="https://user-images.githubusercontent.com/110308448/219136643-1da81fe6-a8da-47e1-a38e-4dfba79ece31.gif" >
 
-- 🔭 I’m currently working on: **Competitive Programming, Web Development**
+- 🔭 I’m currently working on: **CAI-powered applications, Agentic AI systems, RAG-based chatbots, and scalable full-stack solutions.**
 
-- 🌱 I’m currently learning: **Web Development and Data Analytics**
+- 🌱 I’m currently learning: **System Design, Distributed Systems, Event-Driven Architectures, Multi-Agent AI Systems, and Cloud-Native Technologies.**
 
-- 👯 I’m looking to collaborate on: **projects involving web development**
+- 👯 I’m looking to collaborate on: **Open Source projects related to AI, Distributed Systems, Full-Stack Development, and Developer Tools.**
 
-- 🤝 I’m looking for help with: **ReactJS and Backend Development**
+- 🤝 I’m looking for help with: **Advanced System Design, Distributed Systems, Kubernetes, and Large-Scale AI Infrastructure.**
 
-- 💬 Ask me about: **Web Development and DSA**
+- 💬 Ask me about: **React, Node, Next, Python, FastAPI, Azure, AWS, GenAI Applications, REST APIs, RAG Systems, and Software Engineering.**
 
 - 📫 How to reach me: **anuragk04.24@gmail.com**
 
-- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1EGW9RhTncYL9SAMRJ_eStcnmLc8Woafb/view?usp=sharing)
+- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1CZuBg0Du99bUDKQXpdW4WvqG-xf2gEaT/view?usp=drive_link)
 
 - ⚡ Fun fact: **Paradoxically intuitive and distanced! ✌️**
 
@@ -28,7 +28,7 @@
 <a href="https://instagram.com/_anuraaaag_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anuraaaag_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anuragk04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anuragk04" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anuragkumar_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuragkumar_24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_20051236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_20051236" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/anuragk04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_20051236" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/20051236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="20051236" height="30" width="40" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragk2&label=Profile%20views&color=0e75b6&style=flat" alt="anuragk2" /> </p>
 </p>
