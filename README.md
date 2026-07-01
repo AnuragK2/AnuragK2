@@ -4,7 +4,7 @@
 
 <img align="right" height= 300 width=350 src="https://user-images.githubusercontent.com/110308448/219136643-1da81fe6-a8da-47e1-a38e-4dfba79ece31.gif" >
 
-- 🔭 I’m currently working on: **CAI-powered applications, Agentic AI systems, RAG-based chatbots, and scalable full-stack solutions.**
+- 🔭 I’m currently working on: **AI-powered applications, Agentic AI systems, RAG-based chatbots, and scalable full-stack solutions.**
 
 - 🌱 I’m currently learning: **System Design, Distributed Systems, Event-Driven Architectures, Multi-Agent AI Systems, and Cloud-Native Technologies.**
 
